@@ -40,4 +40,16 @@ $cd tools
 $git clone https://github.com/ShionTerunaga/create-react-template.git
 ```
 
-6. test
+6. install "pkg"
+
+```bash
+npm i -g pkg
+```
+
+7. install contents of package.json
+
+```bash
+npm install
+```
+
+8. test
