@@ -2,7 +2,11 @@ export const ja = {
     app: {
         home: {
             title: "こんにちは,Next.js",
-            openPopup: "説明"
+            openPopup: "説明",
+            toCachePotter: "静的データ収集へ"
+        },
+        cachePotter: {
+            title: "静的なデータ収集"
         }
     },
     features: {
